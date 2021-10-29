@@ -1,0 +1,12 @@
+Oct 29, 2021 - Version 3.1 Changelogs:
+ 
+[+] Fixed Minor Bugs.
+[+] Improved Injector.
+[+] Improved Loader Performance.
+[+] Updated Discord RPC.
+[+] Added Stay on Top Window setting.
+[+] Run cheater.ninja webpage everytime loader starts improved. (Sorry Activated Users) :<
+ 
+[-] No cheats added as of now.
+ 
+If you have problems or suggestion, join our discord server: https://ninjaloader.zerobytez.xyz/discord
