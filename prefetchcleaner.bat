@@ -1,7 +1,7 @@
 @echo off
 color 9
 echo.
-echo Cleaning Temp Files Please Wait...
+echo Cleaning Prefetch Files Please Wait...
 timeout 3 >nul
 del /s /f /q C:\Windows\Prefetch >nul
 echo.
