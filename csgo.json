@@ -1,4 +1,28 @@
 {
+	"FrezzyHook v5": {
+		"Type": "Legit/Rage",
+		"Status": "Undetected",
+		"Date": "April 27, 2022",
+		"Link": "https://cdn.discordapp.com/attachments/962276028506587198/968610143111643210/frezzyhook.dll",
+		"Injection": "ManualMap",
+		"Image": "https://cdn.discordapp.com/attachments/962278943216504872/967555596096249876/frezzyhook4.png",
+	},
+	"Rawetrip": {
+		"Type": "Legit/Rage",
+		"Status": "Undetected",
+		"Date": "April 27, 2022",
+		"Link": "https://cdn.discordapp.com/attachments/962276028506587198/968609556986994728/rawetrip.dll",
+		"Injection": "ManualMap",
+		"Image": "https://cdn.discordapp.com/attachments/962278943216504872/967555594842157086/rawetrip.png",
+	},
+	"Weave": {
+		"Type": "Legit/Rage",
+		"Status": "Undetected",
+		"Date": "April 27, 2022",
+		"Link": "https://cdn.discordapp.com/attachments/962276028506587198/968608819729010808/weave.dll",
+		"Injection": "ManualMap",
+		"Image": "https://cdn.discordapp.com/attachments/962278943216504872/967557505922252800/weave.png",
+	},
 	"Osiris": {
 		"Type": "Legit/Rage",
 		"Status": "Undetected",
