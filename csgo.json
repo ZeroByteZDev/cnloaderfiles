@@ -4,7 +4,7 @@
 		"Status": "Undetected",
 		"Date": "April 27, 2022",
 		"Link": "https://cdn.discordapp.com/attachments/962276028506587198/968610143111643210/frezzyhook.dll",
-		"Injection": "ManualMap",
+		"Injection": "LoadLibAlt",
 		"Image": "https://cdn.discordapp.com/attachments/962278943216504872/967555596096249876/frezzyhook4.png",
 	},
 	"Rawetrip": {
