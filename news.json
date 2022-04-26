@@ -1,42 +1,16 @@
 {
+		"CSGOUPD": {
+		"Title": "CSGO GOT AN UPDATE AND CHEATS ARE BROKEN!",
+		"Description": "CS:GO Had an update that broke all cheat included in madloader. \nI will add more cheats...",
+		"Image": "https://cdn.discordapp.com/attachments/898842027935019011/942992581451718726/madlogo-new-transparent.png",
+		"DirectLink": "https://zerobytez.com/forum/index.php?/topic/43-madloader-v3-coming-soon/",
+                "Date": "April 17, 2022",
+	},
 	"Madv3": {
 		"Title": "MADLOADER V3 COMING SOON!",
 		"Description": "I'm happy to announce to you that MadLoader v3 will be coming in a few weeks! \nClick Read More for more info about MadLoader v3",
 		"Image": "https://cdn.discordapp.com/attachments/898842027935019011/942992581451718726/madlogo-new-transparent.png",
 		"DirectLink": "https://zerobytez.com/forum/index.php?/topic/43-madloader-v3-coming-soon/",
                 "Date": "April 17, 2022",
-	},
-
-	"Fedora": {
-		"Title": "Fedoraware Updated!",
-		"Description": "Note: You will hear a sound when loading Fedoraware but don't freak out its normal.",
-		"Image": "https://cdn.discordapp.com/attachments/898842027935019011/942992581451718726/madlogo-new-transparent.png",
-		"DirectLink": "https://zerobytez.com/forum/index.php?/topic/41-how-to-make-azepub-crack-work/",
-                "Date": "April 9, 2022",
-	},
-	
-
-	"Aze": {
-		"Title": "HOW TO MAKE AZEPUB CRACK WORK!",
-		"Description": "Please press Read More for instruction how to make AzePub working.",
-		"Image": "https://cdn.discordapp.com/attachments/900561696500895804/960775453579313172/azepub.png",
-		"DirectLink": "https://zerobytez.com/forum/index.php?/topic/41-how-to-make-azepub-crack-work/",
-                "Date": "April 5, 2022",
-	},
-	
-	"Weave": {
-		"Title": "Injection problem with Weave [IMPORTANT]",
-		"Description": "If you loaded Weave to csgo you must wait for 30 sec or 1 min. \nThe cheats needs to load all its assets to the game.",
-		"Image": "https://cdn.discordapp.com/attachments/898842027935019011/942992581451718726/madlogo-new-transparent.png",
-		"DirectLink": "https://zerobytez.com/madloader.html",
-                "Date": "March 31, 2022",
-	},
-
-	"Added cheats": {
-		"Title": "Added Cheats!",
-		"Description": "Allahware v1, Magma Crack and Aristois Has Been Added! \nHave Fun.",
-		"Image": "https://cdn.discordapp.com/attachments/898842027935019011/942992581451718726/madlogo-new-transparent.png",
-		"DirectLink": "https://zerobytez.com/madloader.html",
-                "Date": "March 31, 2022",
 	}
 }
