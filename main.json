@@ -1,9 +1,9 @@
 {
 	"MadLoader": {
 		"version": "238",
-		"status": "up",
+		"status": "down",
 		"changelogs": "[April 20, 2022] - Fixed Loader not Running.",
-		"devmsg": "Repairing Key System. Come back in 30 mins",
+		"devmsg": "Need to update outdated ch3ats. \nCome back later.",
 		"link": "https://github.com/ZeroByteZDev/cnloaderfiles/raw/main/MadLoaderII-Installer.exe",
 	}
 }
