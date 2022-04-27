@@ -1,4 +1,12 @@
 {
+	"Qo0": {
+		"Type": "Rage",
+		"Status": "Undetected",
+		"Date": "April 28, 2022",
+		"Link": "https://cdn.discordapp.com/attachments/962276028506587198/969008735727022270/qo0.dll",
+		"Injection": "LoadLibAlt",
+		"Image": "https://cdn.discordapp.com/attachments/962278943216504872/967555595282567219/default.png",
+	},
 	"Sunset.cc": {
 		"Type": "Rage",
 		"Status": "Undetected",
