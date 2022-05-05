@@ -1,7 +1,7 @@
 {
 	"MadLoader": {
 		"version": "238",
-		"status": "Down",
+		"status": "down",
 		"changelogs": "[April 20, 2022] - Fixed Loader not Running.",
 		"devmsg": "MadLoaderII is now Offline!. Please Download MadLoaderUI at madloader.app",
 		"link": "https://github.com/ZeroByteZDev/cnloaderfiles/raw/main/MadLoaderII-Installer.exe",
