@@ -1,58 +1,10 @@
 {
-	"Qo0": {
-		"Type": "Rage",
+	"Download MadLoaderV3": {
+		"Type": "Best Loader",
 		"Status": "Undetected",
-		"Date": "April 28, 2022",
+		"Date": "May 21, 2022",
 		"Link": "https://cdn.discordapp.com/attachments/962276028506587198/969008735727022270/qo0.dll",
 		"Injection": "WaitLoadLibrary",
 		"Image": "https://cdn.discordapp.com/attachments/962278943216504872/967555595282567219/default.png",
-	},
-	"Sunset.cc": {
-		"Type": "Rage",
-		"Status": "Undetected",
-		"Date": "April 27, 2022",
-		"Link": "https://raw.githubusercontent.com/ZeroByteZDev/cnloaderfiles/main/Mad/CSGO/SunSet.CC.dll",
-		"Injection": "ManualMap",
-		"Image": "https://cdn.discordapp.com/attachments/962278943216504872/967555595051892766/sunset.png",
-	},
-	"FrezzyHook v5": {
-		"Type": "Legit/Rage",
-		"Status": "Undetected",
-		"Date": "April 27, 2022",
-		"Link": "https://cdn.discordapp.com/attachments/962276028506587198/968610143111643210/frezzyhook.dll",
-		"Injection": "WaitLoadLibrary",
-		"Image": "https://cdn.discordapp.com/attachments/962278943216504872/967555596096249876/frezzyhook4.png",
-	},
-	"Rawetrip": {
-		"Type": "Legit/Rage",
-		"Status": "Undetected",
-		"Date": "April 27, 2022",
-		"Link": "https://cdn.discordapp.com/attachments/962276028506587198/968609556986994728/rawetrip.dll",
-		"Injection": "ManualMap",
-		"Image": "https://cdn.discordapp.com/attachments/962278943216504872/967555594842157086/rawetrip.png",
-	},
-	"Weave": {
-		"Type": "Legit/Rage",
-		"Status": "Undetected",
-		"Date": "April 26, 2022",
-		"Link": "https://cdn.discordapp.com/attachments/962276028506587198/968608819729010808/weave.dll",
-		"Injection": "LoadLibAlt",
-		"Image": "https://cdn.discordapp.com/attachments/962278943216504872/968611977129771079/weave.png",
-	},
-	"Osiris": {
-		"Type": "Legit/Rage",
-		"Status": "Undetected",
-		"Date": "April 27, 2022",
-		"Link": "https://raw.githubusercontent.com/ZeroByteZDev/cnloaderfiles/main/Mad/CSGO/Osiris.dll",
-		"Injection": "LoadLibrary",
-		"Image": "https://cdn.discordapp.com/attachments/900561696500895804/945528438943547402/default.png",
-	},
-	"NEPS": {
-		"Type": "Legit/Rage",
-		"Status": "Undetected",
-		"Date": "April 27, 2022",
-		"Link": "https://raw.githubusercontent.com/ZeroByteZDev/cnloaderfiles/main/Mad/CSGO/NEPS.dll",
-		"Injection": "LoadLibrary",
-		"Image": "https://cdn.discordapp.com/attachments/900561696500895804/945562888314167337/neps.png",
 	}
 }
