@@ -1,30 +1,16 @@
 {
 		"Madv3Update": {
 		"Title": "MadLoader v3 is out!",
-		"Description": "MadLoader v3 has been released with alot of changes and features. \nClick >Read More< to Download MadLoaderUI.",
+		"Description": "MadLoader v3 has been released with alot of new features. \nClick >Read More< to Download MadLoaderUI.",
 		"Image": "https://cdn.discordapp.com/attachments/898842027935019011/942992581451718726/madlogo-new-transparent.png",
 		"DirectLink": "https://madloader.app/#download",
                 "Date": "May 1, 2022",
 	},
-		"Madv3Update1": {
-		"Title": "MadLoader v2 going to shutdown in May 5!",
-		"Description": "MadLoader v3 has been released and MadLoader v2 is going to shutdown.",
+		"Madv3Update2": {
+		"Title": "DON'T EVEN BOTHER USING THIS LOADER XD",
+		"Description": "MadLoader v3 has been released with alot of new features. \nAND THIS LOADER IS OUTDATED!",
 		"Image": "https://cdn.discordapp.com/attachments/898842027935019011/942992581451718726/madlogo-new-transparent.png",
 		"DirectLink": "https://madloader.app/#download",
                 "Date": "May 1, 2022",
-	},
-		"CSGOUPD": {
-		"Title": "CSGO GOT AN UPDATE AND CHEATS ARE BROKEN!",
-		"Description": "CS:GO Had an update that broke all cheat included in madloader. \nI will add more updated cheats ASAP.",
-		"Image": "https://cdn.discordapp.com/attachments/898842027935019011/942992581451718726/madlogo-new-transparent.png",
-		"DirectLink": "https://zerobytez.com/forum/index.php?/topic/43-madloader-v3-coming-soon/",
-                "Date": "April 17, 2022",
-	},
-	"Madv3": {
-		"Title": "MADLOADER V3 COMING SOON!",
-		"Description": "I'm happy to announce to you that MadLoader v3 will be coming in a few weeks! \nClick Read More for more info about MadLoader v3",
-		"Image": "https://cdn.discordapp.com/attachments/898842027935019011/942992581451718726/madlogo-new-transparent.png",
-		"DirectLink": "https://zerobytez.com/forum/index.php?/topic/43-madloader-v3-coming-soon/",
-                "Date": "April 17, 2022",
 	}
 }
