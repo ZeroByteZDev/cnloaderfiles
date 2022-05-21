@@ -1,126 +1,14 @@
 {
 
-	"FedoraWare": {
+	"Download MadLoaderUI": {
 
-		"Type": "Legit/Rage",
+		"Type": "Best Loader",
 
-		"Status": "Unsafe",
+		"Status": "Undetected",
 
-		"Date": "April 9, 2022",
+		"Date": "May 21, 2022",
 
 		"Link": "https://cdn.discordapp.com/attachments/945564070864625684/962271491544723496/FwareRelease.dll",
-
-		"Injection": "LoadLibrary",
-
-		"Image": "https://cdn.discordapp.com/attachments/900561696500895804/945565776990044211/default_tf2.png",
-
-	},
-
-		"FurryWare": {
-
-		"Type": "Legit/Rage",
-
-		"Status": "Undetected",
-
-		"Date": "Feb 11, 2022",
-
-		"Link": "https://cdn.discordapp.com/attachments/945564070864625684/945564392232194088/FurryWare.dll",
-
-		"Injection": "LoadLibrary",
-
-		"Image": "https://cdn.discordapp.com/attachments/900561696500895804/945565776990044211/default_tf2.png",
-
-	},
-
-		"deer_dance": {
-
-		"Type": "Legit/Rage",
-
-		"Status": "Undetected",
-
-		"Date": "Feb 11, 2022",
-
-		"Link": "https://cdn.discordapp.com/attachments/945564070864625684/945564694129827930/tf2_cheat.dll",
-
-		"Injection": "LoadLibrary",
-
-		"Image": "https://cdn.discordapp.com/attachments/900561696500895804/945565776990044211/default_tf2.png",
-
-	},
-
-	    "melancholy": {
-
-		"Type": "Legit/Rage",
-
-		"Status": "Undetected",
-
-		"Date": "Feb 11, 2022",
-
-		"Link": "https://cdn.discordapp.com/attachments/945564070864625684/945564740103577640/melancholy.dll",
-
-		"Injection": "LoadLibrary",
-
-		"Image": "https://cdn.discordapp.com/attachments/900561696500895804/945565776990044211/default_tf2.png",
-
-	},
-
-		"that_one": {
-
-		"Type": "Legit/Rage",
-
-		"Status": "Undetected",
-
-		"Date": "Feb 11, 2022",
-
-		"Link": "https://cdn.discordapp.com/attachments/945564070864625684/945564912946647040/that_one.dll",
-
-		"Injection": "LoadLibrary",
-
-		"Image": "https://cdn.discordapp.com/attachments/900561696500895804/945565776990044211/default_tf2.png",
-
-	},
-
-	    "Sparkly Rewrite": {
-
-		"Type": "Legit/Rage",
-
-		"Status": "Undetected",
-
-		"Date": "Feb 11, 2022",
-
-		"Link": "https://cdn.discordapp.com/attachments/945564070864625684/945564973256544256/SparklyRewrite.dll",
-
-		"Injection": "LoadLibrary",
-
-		"Image": "https://cdn.discordapp.com/attachments/900561696500895804/945565776990044211/default_tf2.png",
-
-	},
-
-		"NudesWare [Beta]": {
-
-		"Type": "Legit",
-
-		"Status": "Undetected",
-
-		"Date": "Feb 11, 2022",
-
-		"Link": "https://cdn.discordapp.com/attachments/945564070864625684/945565035239968788/NudesWareBeta.dll",
-
-		"Injection": "LoadLibrary",
-
-		"Image": "https://cdn.discordapp.com/attachments/900561696500895804/945565776990044211/default_tf2.png",
-
-	},
-
-		"SEOwned": {
-
-		"Type": "Legit/Rage",
-
-		"Status": "Unsafe",
-
-		"Date": "Feb 10, 2022",
-
-		"Link": "https://cdn.discordapp.com/attachments/945564070864625684/945565112469688360/CSHTeamFortress2_1.dll",
 
 		"Injection": "LoadLibrary",
 
