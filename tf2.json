@@ -1,17 +1,11 @@
 {
 
 	"Download MadLoaderUI": {
-
 		"Type": "Best Loader",
-
 		"Status": "Undetected",
-
 		"Date": "May 21, 2022",
-
 		"Link": "https://cdn.discordapp.com/attachments/945564070864625684/962271491544723496/FwareRelease.dll",
-
 		"Injection": "LoadLibrary",
-
 		"Image": "https://cdn.discordapp.com/attachments/900561696500895804/945565776990044211/default_tf2.png",
 
 	}
